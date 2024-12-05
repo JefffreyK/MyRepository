@@ -1,1 +1,3 @@
-Hello World
+#! /usr/bin/env bash
+#Hello World
+echo "Hello"
